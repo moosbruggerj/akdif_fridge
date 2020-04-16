@@ -14,6 +14,25 @@ GUI-Programmierung in Python
 ### REFERENZIMPLEMENTIERUNG: 
 **Kühlschrank der auf und zu gemacht wird und Objekte rein und rausgeben kann!**
 
+#### Running
+
+##### Create virtual Environment
+
+```bash
+$ python3 -m venv venv
+$ source ./venv/bin/activate
+```
+
+##### Install requirements
+```bash
+$ pip install -r requirements.txt
+```
+
+##### Run Application
+
+```bash
+$ ./main.py
+```
 
 # Konzept 
 *Damit jeder seinen Part im Team erstellen kann, ist es wichtig die Rahmenbedingungen für eure Themenstellung im Team abzuklären* 
