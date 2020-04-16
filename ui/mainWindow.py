@@ -1,0 +1,95 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'ui/mainWindow.ui'
+#
+# Created by: PyQt5 UI code generator 5.14.2
+#
+# WARNING! All changes made in this file will be lost!
+
+
+from PyQt5 import QtCore, QtGui, QtWidgets
+
+
+class Ui_MainWindow(object):
+    def setupUi(self, MainWindow):
+        MainWindow.setObjectName("MainWindow")
+        MainWindow.resize(665, 513)
+        self.centralwidget = QtWidgets.QWidget(MainWindow)
+        self.centralwidget.setObjectName("centralwidget")
+        self.horizontalLayout = QtWidgets.QHBoxLayout(self.centralwidget)
+        self.horizontalLayout.setObjectName("horizontalLayout")
+        self.splitter = QtWidgets.QSplitter(self.centralwidget)
+        self.splitter.setOrientation(QtCore.Qt.Horizontal)
+        self.splitter.setObjectName("splitter")
+        self.verticalLayoutWidget_2 = QtWidgets.QWidget(self.splitter)
+        self.verticalLayoutWidget_2.setObjectName("verticalLayoutWidget_2")
+        self.verticalLayout_2 = QtWidgets.QVBoxLayout(self.verticalLayoutWidget_2)
+        self.verticalLayout_2.setContentsMargins(0, 0, 0, 0)
+        self.verticalLayout_2.setObjectName("verticalLayout_2")
+        self.labelContents = QtWidgets.QLabel(self.verticalLayoutWidget_2)
+        self.labelContents.setObjectName("labelContents")
+        self.verticalLayout_2.addWidget(self.labelContents)
+        self.listWidget = QtWidgets.QListWidget(self.verticalLayoutWidget_2)
+        self.listWidget.setMinimumSize(QtCore.QSize(0, 301))
+        self.listWidget.setAutoFillBackground(False)
+        self.listWidget.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
+        self.listWidget.setTabKeyNavigation(True)
+        self.listWidget.setAlternatingRowColors(True)
+        self.listWidget.setSelectionMode(QtWidgets.QAbstractItemView.MultiSelection)
+        self.listWidget.setSelectionBehavior(QtWidgets.QAbstractItemView.SelectRows)
+        self.listWidget.setModelColumn(0)
+        self.listWidget.setSelectionRectVisible(False)
+        self.listWidget.setObjectName("listWidget")
+        self.verticalLayout_2.addWidget(self.listWidget)
+        self.verticalLayoutWidget = QtWidgets.QWidget(self.splitter)
+        self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")
+        self.verticalLayout = QtWidgets.QVBoxLayout(self.verticalLayoutWidget)
+        self.verticalLayout.setSizeConstraint(QtWidgets.QLayout.SetMaximumSize)
+        self.verticalLayout.setContentsMargins(0, 0, 0, 0)
+        self.verticalLayout.setObjectName("verticalLayout")
+        self.openButton = QtWidgets.QPushButton(self.verticalLayoutWidget)
+        self.openButton.setObjectName("openButton")
+        self.verticalLayout.addWidget(self.openButton)
+        spacerItem = QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Fixed)
+        self.verticalLayout.addItem(spacerItem)
+        self.itemNameEdit = QtWidgets.QLineEdit(self.verticalLayoutWidget)
+        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Fixed)
+        sizePolicy.setHorizontalStretch(0)
+        sizePolicy.setVerticalStretch(0)
+        sizePolicy.setHeightForWidth(self.itemNameEdit.sizePolicy().hasHeightForWidth())
+        self.itemNameEdit.setSizePolicy(sizePolicy)
+        self.itemNameEdit.setObjectName("itemNameEdit")
+        self.verticalLayout.addWidget(self.itemNameEdit)
+        self.dateEdit = QtWidgets.QDateEdit(self.verticalLayoutWidget)
+        self.dateEdit.setDateTime(QtCore.QDateTime(QtCore.QDate(2020, 1, 1), QtCore.QTime(0, 0, 0)))
+        self.dateEdit.setCalendarPopup(True)
+        self.dateEdit.setObjectName("dateEdit")
+        self.verticalLayout.addWidget(self.dateEdit)
+        self.insertButton = QtWidgets.QPushButton(self.verticalLayoutWidget)
+        self.insertButton.setEnabled(False)
+        self.insertButton.setDefault(False)
+        self.insertButton.setFlat(False)
+        self.insertButton.setObjectName("insertButton")
+        self.verticalLayout.addWidget(self.insertButton)
+        spacerItem1 = QtWidgets.QSpacerItem(20, 40, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
+        self.verticalLayout.addItem(spacerItem1)
+        self.dateLabel = QtWidgets.QLabel(self.verticalLayoutWidget)
+        self.dateLabel.setObjectName("dateLabel")
+        self.verticalLayout.addWidget(self.dateLabel)
+        self.horizontalLayout.addWidget(self.splitter)
+        MainWindow.setCentralWidget(self.centralwidget)
+        self.statusbar = QtWidgets.QStatusBar(MainWindow)
+        self.statusbar.setObjectName("statusbar")
+        MainWindow.setStatusBar(self.statusbar)
+
+        self.retranslateUi(MainWindow)
+        QtCore.QMetaObject.connectSlotsByName(MainWindow)
+
+    def retranslateUi(self, MainWindow):
+        _translate = QtCore.QCoreApplication.translate
+        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        self.labelContents.setText(_translate("MainWindow", "Fridge Contents"))
+        self.openButton.setText(_translate("MainWindow", "Open Fridge"))
+        self.itemNameEdit.setPlaceholderText(_translate("MainWindow", "Item"))
+        self.insertButton.setText(_translate("MainWindow", "Insert"))
+        self.dateLabel.setText(_translate("MainWindow", "Date: "))
