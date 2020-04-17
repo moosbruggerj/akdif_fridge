@@ -86,7 +86,7 @@ class ListItem:
         self.ui.removeButton.clicked.connect(self.removeClicked)
         self.setStatus(now)
 
-    def setStatus(self, now:QDate):
+    def setStatus(self, now):
         if self.expired:
             return
 
@@ -100,7 +100,8 @@ class ListItem:
             self.listWidget.setBackground(color)
             return
 
-        fraction = int(float(remaining) / self.insert.daysTo(self.freshUntil) * 100)
+        fraction = int((float(remaining) / self.insert.daysTo(self.freshUntil)) * 100)
+
         category = self.currentCategory
         for i in range(len(self.thresholds)):
             if fraction < self.thresholds[i][0]:
@@ -120,28 +121,6 @@ class ListItem:
 
     def removeClicked(self):
         self.window.removeItem(self)
-
-
-
-class test:
-    def __init__(self):
-        self.test2 = test2()
-
-    def modify(self):
-        self.test2.data = "modified data"
-
-class test2(test):
-    def __init__(self):
-        self.data = "test data"
-
-
-#t = test()
-#data = t.test2
-#print(f"data: {data.data}")
-#t.modify()
-#print(f"data after mod: {data.data}")
-
-#exit(0)
 
 app = QApplication(sys.argv)
 win = MainWindow()
