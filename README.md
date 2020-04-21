@@ -5,7 +5,7 @@ von
 Jäch Philipp, Maetz Maximilian & Moosbruger Jakob
 
 ## !Thema 
-Drei stündiger Workshop zur Implementierung eines Kühlschrank mittels Python in einem Graphical User Interface. 
+3-stündiger Workshop zur Implementierung eines Kühlschranks mittels Python in einem Graphical User Interface. 
 
 GUI-Programmierung in Python
 
@@ -47,17 +47,17 @@ $ ./main.py
 Wahlfach ab 9. Schulstufe, Lehrplan Informatik 5. Klasse AHS – gültig ab dem Schuljahr 2018/2019
 
 ### 2. Kompetenzerwerb
-Der Grundkompetenzerwerb des Workshop ist die Aneignung des Wissens über die Erstellung eines Graphical User Interface (GUI) mittels der Programmiersprache Python. Diese Kompetenz ist im Lehrplan unter dem Punkt *Praktische Informatik* zu finden. 
+Den Grundkompetenzerwerb des Workshops stellt die Aneignung der Fähigkeit der Erstellung eines Graphical User Interface (GUI) mittels der Programmiersprache Python dar. Diese Kompetenz ist im Lehrplan unter dem Punkt *Praktische Informatik* zu finden. 
 
     Praktische Informatik
-    –	Begriffe und Konzepte der Informatik verstehen und Methoden und Arbeitsweisen an-wenden können
-    –	Algorithmen erklären, entwerfen, darstellen und in einer Programmiersprache implemen-tieren können
+    –	Begriffe und Konzepte der Informatik verstehen und Methoden und Arbeitsweisen anwenden können
+    –	Algorithmen erklären, entwerfen, darstellen und in einer Programmiersprache implementieren können
     –	Grundprinzipien von Automaten, Algorithmen, Datenstrukturen und Programmen erklären können
     –	Datenbanken benutzen und einfache Datenmodelle entwerfen können
 
-Wichtig ist hierbei das die Schüler_innen die Konzepte welche hinter einem GUI erkennen, bearbeiten und beschreiben können. Die *10 User Interface Design Guidelines* von Nielsen und Molich dienen als Grundlage für den Prozess. 
+Wichtig ist hierbei, dass die Schüler_innen die Konzepte eines GUI erkennen, bearbeiten und beschreiben können. Die *10 User Interface Design Guidelines* von Nielsen und Molich dienen als Grundlage für den Prozess. 
 
-Der Workshop kann auch als Lehrplanübergreifend beschrieben werden da er auch andere wichtige Aspekte abdeckt. Themen des Unterpunktes *Informatik, Mensch & Gesellschaft* können durch die Diskussion des entstandenen Produktes herausgearbeitet werden.
+Der Workshop kann auch als Lehrplanübergreifend beschrieben werden, da er auch andere wichtige Aspekte abdeckt. Insbesondere Themen des Unterpunktes *Informatik, Mensch & Gesellschaft* können durch die Diskussion des entstandenen Produktes herausgearbeitet werden.
 
     Informatik, Mensch und Gesellschaft
     – Die Bedeutung von Informatik in der Gesellschaft beschreiben, die Auswirkungen auf die Einzelnen und die Gesellschaft einschätzen und Vor- und Nachteile an konkreten Beispielen abwägen können
@@ -65,27 +65,28 @@ Der Workshop kann auch als Lehrplanübergreifend beschrieben werden da er auch a
     – Die Entwicklung der Informatik beschreiben und bewerten können
     – Informatikberufe und Einsatzmöglichkeiten der Informatik in verschiedenen Berufsfeldern benennen und einschätzen können
     
-Eine weitere Kompetenz welche gelehrt wird ist jene wie Realität abgebildet werden kann durch Computerprogramme welche sich in eben gennanten Planpunkt des Lehrplan wiederfindet. Die Ausarbeitung der Bedeutsamkeit von Simulationen der Wirklichkeit mittels Computerprogrammen ist eine persönlich gewünschte Kompetenz, welche mittels des Kühlschrank, welcher direkten Bezug zur Realität hat, bearbeitet werden kann. 
+Der Erfahrung, wie Realität durch Computerprogramme abgebildet werden kann, soll eine Bearbeitung von Fragen über die Bedeutung und Auswirkung von digitaler Simulation in unserer Gesellschaft folgen. 
 
-Weiters werden im Workshop auch bereiche der *Angewanten Informatik* & *Informatiksysteme* gelehrt, da die Schüler_innen verschiedenen Software zur Erstellung des Programmes benötigen, Kommunikationstools um den Fortschritt in der Teamarbeit zu besprechen und auch Tools zur Bearbeitung eines gemeinsamen Projekts, wie zum Beispiel GitHub kennen lernen.  
+Weiters werden im Workshop auch Bereiche der *Angewandten Informatik* & *Informatiksysteme* gelehrt. Die Schüler_innen benötigen nämlich diverse Software zur Erstellung des Programmes, Kommunikationstools um den Fortschritt in der Teamarbeit zu besprechen und außerdem Tools zur Bearbeitung eines gemeinsamen Projekts, beispielsweise GitHub.  
 
 ### 3. !Didaktisches Design
-*Welche grundlegendes didaktisches Design (Methode, etwa playful learning Arbeiten, projektorientierter Unterricht, ... ) wählen wir?  Und welche charakteristischen Elemente müssen wir dazu berücksichtigen?*
+*Welches grundlegendes didaktisches Design (Methode, etwa playful learning Arbeiten, projektorientierter Unterricht, ... ) wählen wir?  Und welche charakteristischen Elemente müssen wir dazu berücksichtigen?*
 Projektorientierter Unterricht, Plenum, Heterogenität —> Openendedness
 
 ### 4 !Vorkenntnisse der Schüler_innen und Verarbeitung von Heterogenität
-*Mit welchen Vorkenntnissen der SuS könnt ihr rechnen? Wie können die eruiert werden? Wie geht man mit Heterogenität um?* 
+*Mit welchen Vorkenntnissen der SuS könnt Ihr rechnen? Wie können die eruiert werden? Wie geht man mit Heterogenität um?* 
 Openendedness: Heterogenität, Überprüfung im Unterricht, Ideen sammeln Kreativität fordern.
+Programmiervorkenntnisse benötigt.
 
 ### 5 Überprüfung des Kompetenzerwerb
-Die Schüler_innen bewerten und diskutieren anhand der *Design Guidelines* die Projekte ihrer Mitschüler_innen. Weiters kann durch die Diskussion der von den Schüler_innen erstellten Projekte eine kritischer Denkprozess angeregt werden welchen Nutzen Simulationen haben. Ziel ist es die eigene Abbildung eines Kühlschrank kritisch zu hinterfragen und eventuelle Differenzen zur Realität zu erkennen. In der Diskussion können Themen wie zum Beispiel die Relevanz von realitätsgetreuen Simulationen herausgearbeitet werden, anhand von Beispielen aus der Wirklichkeit. (Siehe Coronoa-Virus-Infektionsraten Simulation) 
+Die Schüler_innen bewerten und diskutieren anhand der *Design Guidelines* die Projekte ihrer Mitschüler_innen. Weiters kann durch die Diskussion der von den Schüler_innen erstellten Projekte eine kritischer Denkprozess angeregt werden, welchen Nutzen Simulationen haben. Ziel ist es, die eigene Abbildung eines Kühlschrank kritisch zu hinterfragen und eventuelle Differenzen zur Realität zu erkennen. In der Diskussion können Themen wie zum Beispiel die Relevanz von realitätsgetreuen Simulationen anhand von realen Beispielen herausgearbeitet werden. (Siehe Simulationen der Corona-Virus-Infektionsraten)
 
 ### 6 Gewünschtes Ergebnis aus dem Workshop
-Die Schüler_innen sollen die Grundkonzepte des Programmieren eines Graphical User Interface verstehen und ähnliche Programme erstellen können. Das Verständnis über Simulationenn und der Richtlinien des Design nach Nielsen und Molich sin gewünschte Kompetenzen. Am Ende soll eine feritge Implementation eines (realitätsnahe) Kühlschrank entstehen. 
+Am Ende soll eine fertige Implementation des Kühlschrankmodells vorliegen. Die Schüler_innen sollen im Zuge dieser Implementation die Grundkonzepte der Erstellung und Programmierung eines Graphical User Interface verstehen und ähnliche Programme erstellen können. Auf das Verständnis sowohl der Simulationen, als auch der Richtlinien des Designs nach Nielsen und Molich legen wir wert.
 
 ### 7 !Meilensteine
-    1. Bring ein grafisches Programm zum Laufen
-    2. Leerer Kühlschrank 
+    1. Bringe ein grafisches Programm zum Laufen
+    2. Der leere Kühlschrank 
     3. Befüllen und entleeren 
     4. Öffnen und Schließen
     5. Ablaufdatum (Datenstruktur erweitern) 
@@ -110,17 +111,17 @@ Jeder Meilenstein = Endpunkt und Vorraussetzung für den nächsten.
 | Inhalt | Methode/Material | Zeit | Produkt |
 | ------------- | ------------- | ------ | ------------- |
 | Begrüßung | | 5 min  | |
-| Einführung in Python GUI/Unterschiede zu Sequenzbasierten Arbeiten| Vortrag/PPT | 10 min | |
+| Einführung in Python GUI/Unterschiede zu sequenzbasierten Arbeiten| Vortrag/PPT | 10 min | |
 | Installieren der benötigten Software | Guide/Vorzeigen | 30 min | |
 | Beispiel Kühlschrank erklären und diskutieren. Was kann ein Kühlschrank? | Diskussion | 15 min | |
 | Referenzimplementierung vorzeigen. Was sind die Grundanforderungen an das Programm? | Show & Tell/Beamer | 10 min | |
-| Erstellen des "Kühlschrank". Vorzeigen des Codes zur Grundstruktur und arbeiten im QT Designer. | Show & Tell/Beamer | 20 min | Grundgerüst | 
-| Erarbeiten eines eigenen "Kühlschrank". Struktur erstellen und Grafisch implementieren | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/ Cheatsheet | 40 min | Eigener "Kühlschrank" |
+| Erstellung vom "Kühlschrank". Vorzeigen des Codes zur Grundstruktur und Arbeit im QT Designer. | Show & Tell/Beamer | 20 min | Grundgerüst | 
+| Die Erarbeitung vom eigenen "Kühlschrank". Struktur erstellen und grafisch implementieren | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/ Cheatsheet | 40 min | Eigener "Kühlschrank" |
 | Pause | | 10 min | Energie | 
-| Befüllen des Kühlschrank. Vorzeigen des Code für Befüllung | Show & Tell/Beamer | 20 min | Methode zum Befüllen | 
+| Befüllen des Kühlschranks. Vorzeigen des Codes für Befüllung | Show & Tell/Beamer | 20 min | Methode zum Befüllen | 
 | Erstellen einer eigenen Befüllmethode und Entleerung | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/Cheatsheet | 30 min | "Kühlschrank" mit Grundfunktionalität |
-|Buttons erstellen und Datenstruktur erweitern vorzeigen | Show & Tell/Beamer | 10 min | Buttons zum Öffnen und Schließen |
-| Selbständiges erarbeiten einer Datenstruktur und Buttons mit verschiedenen Funktionalitäten | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/Cheatsheet | Aufgabe zu Hause | "Kühlschrank" mit erweiterter Grundfunkionalität |
+|Vorzeigen der Button-Erstellung und wie man die Datenstruktur erweitert | Show & Tell/Beamer | 10 min | Buttons zum Öffnen und Schließen |
+| Selbständiges Erarbeiten einer Datenstruktur und Buttons mit verschiedenen Funktionalitäten | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/Cheatsheet | Aufgabe zu Hause | "Kühlschrank" mit erweiterter Grundfunkionalität |
 | Vorstellen der eigenen Projekte und Diskussion der Ergebnisse | Präsentation/Diskussion | 60 min | |
 
 
