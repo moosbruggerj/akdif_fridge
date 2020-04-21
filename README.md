@@ -104,9 +104,26 @@ Jeder Meilenstein = Endpunkt und Vorraussetzung für den nächsten.
      Installationsguide 
 
 
-#  !Stundenplanung  
-Wenn du diese Punkte in der Gruppe geklärt hast, kann jede/er im Team mit der Entwicklung seiner Einheit eines Unterrichsblocks oder eines gemeinsamen Workshops, einer gemeinsamen Challenge, …  beginnen.
-Bitte postet eure Ergebnisse ins Forum um Rückmeldungen zu erhalten.
+#  Stundenplanung  
+
+
+| Inhalt | Methode/Material | Zeit | Produkt |
+| ------------- | ------------- | ------ | ------------- |
+| Begrüßung | | 5 min  | |
+| Einführung in Python GUI/Unterschiede zu Sequenzbasierten Arbeiten| Vortrag/PPT | 10 min | |
+| Installieren der benötigten Software | Guide/Vorzeigen | 30 min | |
+| Beispiel Kühlschrank erklären und diskutieren. Was kann ein Kühlschrank? | Diskussion | 15 min | |
+| Referenzimplementierung vorzeigen. Was sind die Grundanforderungen an das Programm? | Show & Tell/Beamer | 10 min | |
+| Erstellen des "Kühlschrank". Vorzeigen des Codes zur Grundstruktur und arbeiten im QT Designer. | Show & Tell/Beamer | 20 min | Grundgerüst | 
+| Erarbeiten eines eigenen "Kühlschrank". Struktur erstellen und Grafisch implementieren | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/ Cheatsheet | 40 min | Eigener "Kühlschrank" |
+| Pause | | 10 min | Energie | 
+| Befüllen des Kühlschrank. Vorzeigen des Code für Befüllung | Show & Tell/Beamer | 20 min | Methode zum Befüllen | 
+| Erstellen einer eigenen Befüllmethode und Entleerung | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/Cheatsheet | 30 min | "Kühlschrank" mit Grundfunktionalität |
+|Buttons erstellen und Datenstruktur erweitern vorzeigen | Show & Tell/Beamer | 10 min | Buttons zum Öffnen und Schließen |
+| Selbständiges erarbeiten einer Datenstruktur und Buttons mit verschiedenen Funktionalitäten | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/Cheatsheet | Aufgabe zu Hause | "Kühlschrank" mit erweiterter Grundfunkionalität |
+| Vorstellen der eigenen Projekte und Diskussion der Ergebnisse | Präsentation/Diskussion | 60 min | |
+
+
 
 # Quellen
 Lehrplan Informatik 5. Klasse AHS. Abgerufen von https://www.ahs-informatik.com/informatik-5-klasse/
