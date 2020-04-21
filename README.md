@@ -77,7 +77,7 @@ Jeder Meilenstein = Endpunkt und Vorraussetzung für den nächsten.
      Python (https://www.python.org) 
      VS Codium (https://vscodium.com) 
      QT for Python (https://build-system.fman.io/pyqt5-tutorial)
-     QT Creator(https://build-system.fman.io/qt-designer-download)
+     QT Designer (https://build-system.fman.io/qt-designer-download)
      Installationsguide 
 
 
