@@ -73,6 +73,8 @@ Weiters werden im Workshop auch Bereiche der *Angewandten Informatik* & *Informa
 *Welches grundlegendes didaktisches Design (Methode, etwa playful learning Arbeiten, projektorientierter Unterricht, ... ) wählen wir?  Und welche charakteristischen Elemente müssen wir dazu berücksichtigen?*
 Projektorientierter Unterricht, Plenum, Heterogenität —> Openendedness
 
+Im Geiste des Computational Thinking Konzepts findet eine Kontextualisierung bei der Betrachtung eines Beispielskühlschranks, worauf eine De-Kontextualisierung im Ausarbeiten der allgemeinen Eigenschaften eines Kühlschranks folgt und Re-Kontextualisierung im Zuge der Erarbeitung der Kühlschranksimulation, mit den Mitteln der GUI-Programmierung.
+
 ### 4 !Vorkenntnisse der Schüler_innen und Verarbeitung von Heterogenität
 *Mit welchen Vorkenntnissen der SuS könnt Ihr rechnen? Wie können die eruiert werden? Wie geht man mit Heterogenität um?* 
 Openendedness: Heterogenität, Überprüfung im Unterricht, Ideen sammeln Kreativität fordern.
