@@ -81,6 +81,11 @@ Die Schüler_innen kennen die Basis-Konzepte und Methoden zur Erstellung eines P
 
 Die Heterogenität kann mittels "Openendedness" verarbeitet werden. Die einzelnen Meilensteine des Projekt und die Unterpunkte sind aufbauend für den nächsten, jedoch hat jeder für sich einen breiten Rahmen an Möglichkeiten um erforscht zu werden. Dadurch können Schüler_innen welche schneller voran kommen, anfangen mit dem eigenen Code zu experimentieren währendessen, vermeintlich langsamere Schüler_innen an den Grundsteinen arbeiten. Durch dieses Setting kann die Kreativität der einzelnen gefördert werden. 
 
+<ins>
+Je nach Klasse kann das Projekt auch in Gruppen gemacht werden, in dem z.B. Leistungsstärkere SuS mit Leisungsschwächeren SuS in einer Gruppe sind, können diese voneinander lernen.
+Die genaue Guppenzusammensetzung und Anzahl an SuS ist jedoch von der Klasse abhängig.
+</ins>
+
 ### 5 Überprüfung des Kompetenzerwerb
 Die Schüler_innen bewerten und diskutieren anhand der *Design Guidelines* die Projekte ihrer Mitschüler_innen. Weiters kann durch die Diskussion der von den Schüler_innen erstellten Projekte eine kritischer Denkprozess angeregt werden, welchen Nutzen Simulationen haben. Ziel ist es, die eigene Abbildung eines Kühlschrank kritisch zu hinterfragen und eventuelle Differenzen zur Realität zu erkennen. In der Diskussion können Themen wie zum Beispiel die Relevanz von realitätsgetreuen Simulationen anhand von realen Beispielen herausgearbeitet werden. (Siehe Simulationen der Corona-Virus-Infektionsraten)
 
@@ -119,7 +124,7 @@ In jeder Phase des Projektes gilt es am Ende ein fertiges Programm zu haben, mit
 | Einführung in Python GUI/Unterschiede zu sequenzbasierten Arbeiten| Vortrag/PPT | 10 min | |
 | Installieren der benötigten Software | Guide/Vorzeigen | 30 min | |
 | Beispiel Kühlschrank erklären und diskutieren. Was kann ein Kühlschrank? | Diskussion | 15 min | |
-| Referenzimplementierung vorzeigen. Was sind die Grundanforderungen an das Programm? | Show & Tell/Beamer | 10 min | |
+| <ins>Grundanforderungen des Programm es erarbeiten. Evtl. mit der Refernzimplementierung arbeiten, falls wenig Input von den SuS kommt.</ins> | Diskussion/Show & Tell/Beamer | 10 min | Anforderungen |
 | Erstellung vom "Kühlschrank". Vorzeigen des Codes zur Grundstruktur und Arbeit im QT Designer. | Show & Tell/Beamer | 20 min | Grundgerüst | 
 | Die Erarbeitung vom eigenen "Kühlschrank". Struktur erstellen und grafisch implementieren | Gruppen-/ Einzelarbeit. Computer pro Gruppe od. SuS/ Cheatsheet | 40 min | Eigener "Kühlschrank" |
 | Pause | | 10 min | Energie | 
